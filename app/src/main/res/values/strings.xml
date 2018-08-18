@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">App 3 - ListViews</string>
+
+    <string-array name="theItems">
+        <item>Ruler</item>
+        <item>Marker</item>
+        <item>Frixion</item>
+    </string-array>
+
+    <string-array name="thePrices">
+        <item>PHP 40.00</item>
+        <item>PHP 50.00</item>
+        <item>PHP 75.00</item>
+    </string-array>
+
+    <string-array name="theDescription">
+        <item>Ruler para sa\'yo</item>
+        <item>Marker para sa kanya</item>
+        <item>Frixion pen para sa\'kin</item>
+    </string-array>
+</resources>
